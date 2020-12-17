@@ -1,4 +1,6 @@
-# spa_pedidos
+# spa_pedidos , Aplicativo de almacenamiento de Libros
+
+
 
 ## Build Setup
 
@@ -16,5 +18,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+# Nota
+ * Hay fallos al agregar y al actualizar con la imagen
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
